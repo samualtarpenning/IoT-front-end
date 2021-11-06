@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Ionic-itt-invoicing",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
